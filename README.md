@@ -1,16 +1,25 @@
-## Check out my website -> soon
+# My Project
 
-<!--
-**ki11u4/ki11u4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Introduction
 
-Here are some ideas to get you started:
+This is a **bold** statement and this is an *italic* statement.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p style="font-size:20px; font-family:Arial;">This is a paragraph with custom font size and style.</p>
+
+### Features
+
+1. **Feature 1**: This feature is amazing.
+2. *Feature 2*: This feature is also great.
+3. ***Feature 3***: The best feature.
+
+#### Installation
+
+Follow these steps to install the project.
+
+1. Step one
+2. Step two
+3. Step three
+
+###### Contact
+
+For more information, visit the [website](https://example.com).
